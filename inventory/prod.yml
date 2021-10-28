@@ -1,0 +1,6 @@
+---
+elasticsearch:
+  hosts:
+    192.168.122.47:
+      ansible_connection: ssh
+      ansible_user: root
